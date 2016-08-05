@@ -1,0 +1,2 @@
+/home/wangwenchao/MySoft/CMAKE/Demo3/build/math/CMakeFiles/MathFunctions.dir
+/home/wangwenchao/MySoft/CMAKE/Demo3/build/CMakeFiles/main.dir

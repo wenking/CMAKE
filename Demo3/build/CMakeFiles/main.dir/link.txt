@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/main.dir/main.cc.o  -o main -rdynamic math/libMathFunctions.so -Wl,-rpath,/home/wangwenchao/MySoft/CMAKE/Demo3/build/math 
