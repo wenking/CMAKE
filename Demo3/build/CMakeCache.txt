@@ -179,6 +179,9 @@ DEMO3_SOURCE_DIR:STATIC=/home/wangwenchao/MySoft/CMAKE/Demo3
 //Dependencies for target
 MathFunctions_LIB_DEPENDS:STATIC=
 
+//Dependencies for target
+MathFunctions_static_LIB_DEPENDS:STATIC=
+
 
 ########################
 # INTERNAL cache entries
